@@ -31,6 +31,13 @@
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
     <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
+
+  <dir>
+    <title>Live TV</title>
+    <link>insert here</link>
+    <thumbnail>insert here</thumbnail>
+    <fanart>insert here</fanart>
+  </dir>
 	
   <item>
     <title>Settings</title>
