@@ -8,28 +8,28 @@
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
   
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/movies.xml</link>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/movies.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
   
   <dir>
     <title>TV</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv.xml</link>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/tvshows.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
     
   <dir>
     <title>Aussie Live TV</title>
     <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
 	
   <item>
@@ -37,7 +37,7 @@
     <mysettings>1/0</mysettings>
     <info>Open the Settings for the addon on the General tab</info>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/tools.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
     </item>
 
  
