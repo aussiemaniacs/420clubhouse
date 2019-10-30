@@ -3,13 +3,7 @@
    <title>Welcome to the, 4.20 Clubhouse, Everything 4 the Stoners</title>
 </item>
 
-	
-<item>
-   <title>Fetch TV Movie Trailers</title>
-   <link>http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8</link>
-   <thumbnail>http://pacific.network/wp-content/uploads/2016/12/fetch.jpg</thumbnail>
-   <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-</item>
+
 
   <dir>
     <title>Search Movie or TV</title>
