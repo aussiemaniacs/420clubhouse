@@ -34,8 +34,8 @@
 
   <dir>
     <title>Live TV</title>
-    <link>insert here</link>
-    <thumbnail>insert here</thumbnail>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/livetv.xml</link>
+    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
     <fanart>insert here</fanart>
   </dir>
 	
