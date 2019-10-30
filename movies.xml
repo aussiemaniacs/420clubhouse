@@ -1,0 +1,24 @@
+<dir>
+  <title>Movies Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>Movies Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>Movies Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>Action Movies</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>Cheech & Chong</title>
+  <tmdb>list/125191</tmdb>
+</dir>
