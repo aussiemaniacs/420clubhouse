@@ -3,18 +3,48 @@
    <title>Welcome to the, 4.20 Clubhouse, Everything 4 the Stoners</title>
 </item>
 
-<dir>
+	
+<item>
+   <title>Fetch TV Movie Trailers</title>
+   <link>http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8</link>
+   <thumbnail>http://pacific.network/wp-content/uploads/2016/12/fetch.jpg</thumbnail>
+   <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+</item>
+
+  <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
     <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/search%20icon.png?raw=true</thumbnail>
     <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-</dir>
+  </dir>
   
-<dir>
-		<name>4.20 Clubhouse</name>
-		<link>insert url</link>
-		<animated_thumbnail>insert gif</animated_thumbnail>
-		<thumbnail>insert thumbnail</thumbnail>
-		<animated_fanart>insert gif/vid</animated_fanart>
-		<fanart>insert fanart</fanart>		
-</dir>
+  <dir>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/movies.xml</link>
+    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/movies%20icon.png?raw=true</thumbnail>
+    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+  </dir>
+  
+  <dir>
+    <title>TV</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/tv.xml</link>
+    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/tv%20shows%20icon.png?raw=true</thumbnail>
+    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+  </dir>
+    
+  <dir>
+    <title>Aussie Live TV</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
+    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/live%20tv.png?raw=true</thumbnail>
+    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+  </dir>
+	
+  <item>
+    <title>Settings</title>
+    <mysettings>1/0</mysettings>
+    <info>Open the Settings for the addon on the General tab</info>
+    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/settings.png?raw=true</thumbnail>
+    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+    </item>
+
+ 
