@@ -1,0 +1,14 @@
+<dir>
+  <title>TV Popular</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TV Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TV Airing Today</title>
+  <tmdb>tv/today</tmdb>
+</dir>
