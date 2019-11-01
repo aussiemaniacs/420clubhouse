@@ -2,12 +2,18 @@
 <item>
    <title>Welcome to the, 4.20 Clubhouse, Everything 4 the Stoners</title>
 </item>
-
+	
+<dir>
+   <name>Cheech & Chong</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ccmenu.xml</link>
+   <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
+   <fanart></fanart>
+</dir>
 
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
+    <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
     <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
   </dir>
   
@@ -23,20 +29,6 @@
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv.xml</link>
     <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/tvshows.png?raw=true</thumbnail>
     <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
-  </dir>
-    
-  <dir>
-    <title>Aussie Live TV</title>
-    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
-  </dir>
-
-  <dir>
-    <title>Live TV</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/livetv.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/icon.png?raw=true</thumbnail>
-    <fanart>insert here</fanart>
   </dir>
 	
   <item>
