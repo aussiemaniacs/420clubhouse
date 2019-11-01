@@ -12,23 +12,3 @@
   <title>Movies Top Rated</title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
-
-<dir>
-  <title>Action Movies</title>
-  <tmdb>genre/movies/28</tmdb>
-</dir>
-
-<dir>
-  <title>Cheech and Chong</title>
-  <tmdb>list/125191</tmdb>
-</dir>
-
-<dir>
-  <title>Stoners to the Max</title>
-  <tmdb>list/125198</tmdb>
-</dir>
-
-<dir>
-  <title>Weed Doco's</title>
-  <tmdb>list/125199</tmdb>
-</dir>
