@@ -3,12 +3,19 @@
    <title>Welcome to the, 4.20 Clubhouse, Everything 4 the Stoners</title>
 </item>
 	
-<dir>
+  <dir>
    <name>Cheech & Chong</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ccmenu.xml</link>
    <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
    <fanart></fanart>
-</dir>
+  </dir>
+	
+  <dir>
+   <name>Stoner TV SHows</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv%20clickers.xml</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+  </dir>
 
   <dir>
     <title>Search Movie or TV</title>
