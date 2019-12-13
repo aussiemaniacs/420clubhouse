@@ -1,15 +1,21 @@
 <dir>
   <title>TV Popular</title>
   <tmdb>tv/popular</tmdb>
+  <thumbnail>https://www.imdb.com/title/tt8111088/mediaviewer/rm4266234113</thumbnail>
+  <fanart>https://m.media-amazon.com/images/M/MV5BOWZkMGQwODAtN2IxMS00YjcxLTgzOTEtYTJjYTE2YTY4YjIyXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_.jpg</fanart>
 </dir>
 
 <dir>
   <title>TV Top Rated</title>
   <tmdb>tv/top_rated</tmdb>
+  <thumbnail>https://www.imdb.com/title/tt5491994/mediaviewer/rm3688367616</thumbnail>
+  <fanart>https://www.imdb.com/title/tt5491994/mediaviewer/rm1538096128</fanart>
 </dir>
 
 <dir>
   <title>TV Airing Today</title>
-  <tmdb>tv/today</tmdb>
+  <tmdb>tv/today</tmdb><thumbnail></thumbnail>
+  <thumbnail>https://www.imdb.com/title/tt7049682/mediaviewer/rm3657143553</thumbnail>
+  <fanart>https://www.imdb.com/title/tt7049682/mediaviewer/rm591561217</fanart>
 </dir>
 
