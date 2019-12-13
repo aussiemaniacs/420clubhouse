@@ -1,14 +1,20 @@
 <dir>
   <title>Movies Popular</title>
   <tmdb>movies/popular</tmdb>
+  <thumbnail>https://www.imdb.com/title/tt2527338/mediaviewer/rm1361479681</thumbnail>
+   <fanart>https://www.imdb.com/title/tt2527338/mediaviewer/rm2653390849</fanart>
 </dir>
 
 <dir>
   <title>Movies Now Playing</title>
   <tmdb>movies/now_playing</tmdb>
+  <thumbnail>https://www.imdb.com/title/tt7286456/mediaviewer/rm3353122305</thumbnail>
+  <fanart>https://www.imdb.com/title/tt7286456/mediaviewer/rm1424589313</fanart>
 </dir>
 
 <dir>
   <title>Movies Top Rated</title>
   <tmdb>movies/top_rated</tmdb>
+  <thumbnail>https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600</thumbnail>
+  <fanart>https://www.imdb.com/title/tt0111161/mediaviewer/rm2971500544</fanart>
 </dir>
