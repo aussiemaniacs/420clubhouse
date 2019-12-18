@@ -1,65 +1,65 @@
 <xml>
 <item>
    <title>Welcome to the 4.20 Clubhouse, Everything 4 the Stoners</title>
-   <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
-   <fanart>https://github.com/aussiemaniacs/420clubhouse/blob/master/fanart.jpg?raw=true</fanart>
+   <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/icon.png?raw=true</thumbnail>
+   <fanart>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/fanart.jpg?raw=true</fanart>
 </item>
 	
   <dir>
    <name>Cheech & Chong</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ccmenu.xml</link>
-   <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
-   <fanart>https://www.wallpaperup.com/uploads/wallpapers/2013/11/08/171538/cda984532f56b375f2d0c1f7a2f86c52-700.jpg</fanart>
+   <thumbnail>https://2trlab2tfeld3rfxhw3mhy79-wpengine.netdna-ssl.com/wp-content/uploads/51olnxWBHqL-1.jpg</thumbnail
+  <fanart>https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNNBCUFILMHD.COM_TVNH0012791401200511.jpg</fanart>
   </dir>
 	
   <dir>
    <name>Monty Python</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/monty%20python.xml</link>
-   <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/monthy%20python%20thumbnail.jpg?raw=true</thumbnail>
-   <fanart>https://pmcvariety.files.wordpress.com/2019/06/shutterstock_3688612b-cropped-1-e1561552698740.jpg?w=1000</fanart>
+   <thumbnail>https://m.media-amazon.com/images/I/71zVMFyW-FL._SS500_.jpg</thumbnail>
+   <fanart>https://images6.alphacoders.com/341/thumb-1920-341198.jpg</fanart>
   </dir>
 	
   <dir>
    <name>Stoner Movies</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/stoner%20movies.xml</link>
-   <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
-   <fanart>https://marylyn.com/wp-content/uploads/2018/01/s-movies.jpg</fanart>
+   <thumbnail>https://i1.sndcdn.com/artworks-000032187146-geatfq-t500x500.jpg</thumbnail>
+   <fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
   </dir>
 	
   <dir>
    <name>Stoner TV Shows</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv%20clickers.xml</link>
-   <thumbnail>https://stonerdays.com/wp-content/uploads/2012/12/stoner-tv-shows2.jpg</thumbnail>
-   <fanart>https://www.gannett-cdn.com/-mm-/8ee2cad44e079e8ed1ef6952fe16bb555cb2d9cf/c=136-0-3479-1889/local/-/media/2017/04/19/USATODAY/USATODAY/636282184653589128-420-collage.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp</fanart>
+   <thumbnail>https://m.media-amazon.com/images/I/71BN89PDSkL._SS500_.jpg</thumbnail>
+   <fanart>https://images.amcnetworks.com/ifc.com/wp-content/uploads/2015/11/That-70s-Show-Stoner-Wisdom.jpg</fanart>
   </dir>
 
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
-    <thumbnail>https://github.com/aussiemaniacs/420clubhouse/blob/master/icon.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/search.png</thumbnail>
+    <fanart>https://vidooly.com/blog/wp-content/uploads/2019/05/netflix-shows-amazon-prime-series-best-shows-on-hotstar-premium-sonlyliv1.jpg</fanart>
   </dir>
   
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/movies.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/movies.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/movies.png</thumbnail>
+    <fanart>https://wallpapercave.com/wp/wp1945898.jpg</fanart>
   </dir>
   
   <dir>
     <title>TV</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/tvshows.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/tvshows.png</thumbnail>
+    <fanart>https://tvseriesfinale.com/wp-content/uploads/2016/03/canceled-tv-shows-733x366_c.jpg</fanart>
   </dir>
 	
   <item>
     <title>Settings</title>
     <mysettings>1/0</mysettings>
     <info>Open the Settings for the addon on the General tab</info>
-    <thumbnail>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/tools.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/clubhouseartwork/blob/master/fanart.jpg?raw=true</fanart>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/tools.png</thumbnail>
+    <fanart>https://wallpapercave.com/wp/wp2474805.jpg</fanart>
     </item>
 
  
