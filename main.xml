@@ -32,6 +32,13 @@
    <fanart>https://images.amcnetworks.com/ifc.com/wp-content/uploads/2015/11/That-70s-Show-Stoner-Wisdom.jpg</fanart>
   </dir>
 
+   <dir>
+   <name>Stoner Recipes</name>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+   </dir>
+
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
