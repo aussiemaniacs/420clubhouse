@@ -5,6 +5,14 @@
    <thumbnail>https://www.imdb.com/title/tt5884792/mediaviewer/rm1595089408</thumbnail>
    <fanart>https://www.imdb.com/title/tt5884792/mediaviewer/rm3920437248</fanart>
 </dir>
+   
+<dir>
+   <name>Workaholics</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Workaholics.xml</link>
+   <thumbnail>https://m.media-amazon.com/images/M/MV5BMTkxNzQ0MDMyMF5BMl5BanBnXkFtZTgwNTYzMjQ2NzE@._V1_.jpg</thumbnail>
+   <fanart></fanart>
+</dir>
+   
 
 <dir>
    <name>Trailer Park Boys The Animated Series (2019)</name>
@@ -39,13 +47,6 @@
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ricky%20and%20morty.xml</link>
    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg</thumbnail>
    <fanart>https://m.media-amazon.com/images/M/MV5BNzlhNGI0MTUtOWZlNS00ZmQ2LTk2NTYtMGMwMzRmOGViZWIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-</dir>
-   
-<dir>
-   <name></name>
-   <link></link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
 </dir>
    
 <dir>
