@@ -1,6 +1,11 @@
 <xml>
 
-
+<dir>
+   <name>Bong Appetit</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Bong%20Appetit%20weed%20recipes.xml</link>
+   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHT7N_tnLLSpWLNTpxgEQEeOrLiymmieJx9051iSCNk8KF-eQk&s</thumbnail>
+   <fanart>https://cdn.shopify.com/s/files/1/0279/8023/products/bongapettit_1024x1024.jpg?v=1571438768</fanart>
+</dir> 
 
 <item>
 <title>Most Potent Brownie - Epic Meal Time</title>
