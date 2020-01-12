@@ -54,11 +54,18 @@
    <fanart>https://cloud.filmfed.com/movies/images/m_ed042e64-c9b9-4806-b5bd-177d9dd7dd00.jpg</fanart>
 </item>
 
-<dir>
+<item>
    <name>And Now for Something Completely Different 1971</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/and%20now%20for%20something.xml</link>
    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjFjMDU3ZWItN2UxMy00NDQ2LWE1YTItNWQzNDRkMTkxNTA2XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX658_AL_.jpg</thumbnail>
    <fanart>https://m.media-amazon.com/images/M/MV5BMTU4ZTk3ZDAtYjQ4MC00ODIyLTlhNTctMjg1YWI1MzZiNDIyXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_.jpg</fanart>
+</item>
+
+<dir>
+   <name>test</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/arch%20angels%20files.xml</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
 </dir>
    
    <item>
