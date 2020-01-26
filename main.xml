@@ -39,6 +39,13 @@
    <fanart>https://static1.squarespace.com/static/5541baefe4b0d1854a60b4bc/5541bb17e4b006d7e513e4de/5b82ee4d88251bb51ff62593/1535308070727/Edibles_Cookbook_Sneakpeek.jpg?format=1000w</fanart>
    </dir>
 
+   <dir>
+   <name>Growers</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/growers.xml</link>
+   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkUvVFsl_YtCt8xrFWX2-NpctG385tYZknjupVA1wJq41prOI&s</thumbnail>
+   <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
+</dir>
+
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
