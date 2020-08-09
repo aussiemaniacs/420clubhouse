@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<plugin>
+    <title>Swift Streamz</title>
+    <link>plugin://script.420swift/</link>
+    <thumbnail>special://home/addons/script.420swift/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420swift/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap</title>
+    <link>plugin://script.420tvtap/</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
