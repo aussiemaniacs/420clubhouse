@@ -7,25 +7,8 @@
       <sublink>https://real-debrid.com/d/ZM46DKIA7LJNE (RD 1080p)</sublink>
       <sublink>https://real-debrid.com/d/OKG2UENX4FWUU (RD 1080p)</sublink>
       <sublink>https://real-debrid.com/d/PSZJ4MCZRY4CC (RD 1080p)</sublink>
-      <sublink>
-      <item>
-	<title>Star Wars: The Last Jedi</title>
-	<meta>
-		<content>movie</content>
-		<imdb>tt2527336</imdb>
-		<title>Star Wars: The Last Jedi</title>
-		<year>2017</year>
-	</meta>
-	<link>
-		<sublink>search</sublink>
-		<sublink>searchsd</sublink>
-	</link>
-	<animated_thumbnail></animated_thumbnail>
-	<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-	<animated_fanart></animated_fanart>
-	<fanart>https://ia.media-imdb.com/images/M/MV5BMTZiMGY5NjctMTQ3Mi00NzI2LThkMWEtNmQ0OTE1MzZkMDg0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
-</item>
-      </sublink>
+      <sublink>search</sublink>
+      <sublink>searchsd</sublink>
    </link>
    <thumbnail>https://www.imdb.com/title/tt0083929/mediaviewer/rm4217178112</thumbnail>
    <fanart>https://www.imdb.com/title/tt0083929/mediaviewer/rm1351490816</fanart>
