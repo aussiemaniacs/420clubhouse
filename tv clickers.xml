@@ -41,16 +41,3 @@
    <thumbnail>https://www.imdb.com/title/tt6078096/mediaviewer/rm979268608</thumbnail>
    <fanart>https://www.imdb.com/title/tt6078096/mediaviewer/rm42167296</fanart>
 </dir>
-
-<dir>
-   <name>Rick and Morty</name>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ricky%20and%20morty.xml</link>
-   <thumbnail>https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg</thumbnail>
-   <fanart>https://m.media-amazon.com/images/M/MV5BNzlhNGI0MTUtOWZlNS00ZmQ2LTk2NTYtMGMwMzRmOGViZWIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-</dir>
-   
-<plugin>
-<title>Mr. Canucks Grow</title>
-<link>plugin://plugin.video.youtube/channel/UCtU2-cpxx18iQ4BvracrxDQ/playlists/</link>
-<thumbnail>https://yt3.ggpht.com/a/AGF-l7_Ucr4Bvg-HAfgW1kuphIOpVBVOqGNkfhAGuA=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
-</plugin>
