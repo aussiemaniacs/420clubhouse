@@ -11,7 +11,84 @@
 
 <plugin>
     <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/1</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/2</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/3</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/4</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
     <link>plugin://script.420tvtap/list_channels/5</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/6</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/7</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/8</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/9</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/10</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/11</link>
+    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
+    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>TvTap Sports Channels</title>
+    <link>plugin://script.420tvtap/list_channels/12</link>
     <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
     <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
 </plugin>
