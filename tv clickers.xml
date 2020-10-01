@@ -1,4 +1,11 @@
 <xml>
+ 
+<dir>
+   <name>Ricky & Morty</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ricky%20and%20morty.xml</link>
+   <thumbnail>https://www.imdb.com/title/tt2861424/mediaviewer/rm209331968</thumbnail>
+   <fanart>https://www.imdb.com/title/tt2861424/mediaviewer/rm2681416192</fanart>
+</dir>
    
 <dir>
    <name>Little Britain</name>
