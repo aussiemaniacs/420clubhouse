@@ -1,6 +1,14 @@
 <xml>
+   
 <dir>
-   <name>Disjointed (2017)</name>
+   <name>Little Britain</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/little%20britain.xml</link>
+   <thumbnail>https://www.imdb.com/title/tt0358856/mediaviewer/rm265116160</thumbnail>
+   <fanart>https://static.tvmaze.com/uploads/images/original_untouched/230/577456.jpg</fanart>
+</dir>
+   
+<dir>
+   <name>Disjointed</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Disjointed.xml</link>
    <thumbnail>https://www.imdb.com/title/tt5884792/mediaviewer/rm1595089408</thumbnail>
    <fanart>https://www.imdb.com/title/tt5884792/mediaviewer/rm3920437248</fanart>
@@ -15,7 +23,7 @@
    
 
 <dir>
-   <name>Trailer Park Boys The Animated Series (2019)</name>
+   <name>Trailer Park Boys The Animated Series</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Trailer%20Park%20Boys%20The%20Animated%20Series.xml</link>
    <thumbnail>https://www.imdb.com/title/tt9814900/mediaviewer/rm3765198848</thumbnail>
    <fanart>https://www.imdb.com/title/tt9814900/mediaviewer/rm1717395712</fanart>
