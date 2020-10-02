@@ -1,5 +1,11 @@
 <xml>
  
+<plugin>
+<title>ABC RAGE</title>
+<link>plugin://plugin.video.youtube/channel/rageabc1987/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
 <dir>
 <name>ABC RAGE (Aussie Music Show)</name>
 <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/rage%20playlist.xml</link>
