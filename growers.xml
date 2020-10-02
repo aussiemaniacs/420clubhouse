@@ -1,6 +1,12 @@
 <xml>
 
 <plugin>
+<title>Growing Exposed</title>
+<link>plugin://plugin.video.youtube/channel/PLzKkh94EEm9oSujEp6HI1QiNvfRC55Vqt/playlists/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/793873665787953152/leZj8TNM_400x400.jpg</thumbnail>
+</plugin>
+  
+<plugin>
 <title>Mr. Canucks Grow</title>
 <link>plugin://plugin.video.youtube/channel/UCtU2-cpxx18iQ4BvracrxDQ/playlists/</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_Ucr4Bvg-HAfgW1kuphIOpVBVOqGNkfhAGuA=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
