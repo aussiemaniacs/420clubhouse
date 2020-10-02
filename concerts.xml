@@ -1,17 +1,5 @@
 <xml>
  
-<item>
-<title>rage channel</title>
-<link>https://www.youtube.com/c/rageabc1987/videos</link>
-<thumbnail></thumbnail>
-</item>
- 
-<plugin>
-<title>ABC RAGE</title>
-<link>plugin://plugin.video.youtube/channel/rageabc1987/videos/</link>
-<thumbnail></thumbnail>
-</plugin>
- 
 <dir>
 <name>ABC RAGE (Aussie Music Show)</name>
 <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/rage%20playlist.xml</link>
