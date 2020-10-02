@@ -1,8 +1,14 @@
 <xml>
  
+<item>
+	<title>rage channel</title>
+	<link>https://www.youtube.com/c/rageabc1987/videos</link>
+	<thumbnail></thumbnail>
+</item>
+ 
 <plugin>
 <title>ABC RAGE</title>
-<link>plugin://plugin.video.youtube/channel/rageabc1987/playlists/</link>
+<link>plugin://plugin.video.youtube/channel/rageabc1987/videos/</link>
 <thumbnail></thumbnail>
 </plugin>
  
