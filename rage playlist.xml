@@ -1,12 +1,6 @@
 xml
 
 <plugin>
-	<title>RAGE Playlists</title>
-	<link>plugin://plugin.video.youtube/channel/rageabc1987/playlists/</link>
-	<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
 	<title>FEATURE VIDEOS</title>
 	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcLUo6L5PCwPKjIbPv2fKCzp/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
@@ -61,104 +55,56 @@ xml
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Midnight Oil discuss Shellie Morris on Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcIy22KIH4vHVbus-CXbrmeA/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Thundamentals discuss Sisqo's Thong Song on Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcKl2qGGFQY3TIjPn96rR9df/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Iconic Videos 2007-2017 - Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcIutH77U5iARqu3nOXnvE4K/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Iconic Videos 1997-2006 - Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcIV3C4Bh-p1oM8mfCoxj4qf/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Iconic Videos 1987-1996 - Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcI9P10RU42QxdQxX8MC9KE2/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Giorgio Moroder on Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcIF7c17Ak8cMuK2U8QBMN5_/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Tim & Eric discuss Jim Carrey on Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcLmskGiLGrH1NSDc08ehmci/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Mike Patton guest programs Rage Saturday March 9 2013</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcLYZhasPZBXL3SXjZqouyVX/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
 <plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-</plugin>
-
-<plugin>
-	<title></title>
-	<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+	<title>Haim discuss Vampire Weekend 'Ya Hey' on Rage</title>
+	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcLs6IikJx2ngG08LwqS8ynp/</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
 </plugin>
 
