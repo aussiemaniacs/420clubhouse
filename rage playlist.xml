@@ -1,7 +1,7 @@
 xml
 
 <plugin>
-	<title></title>
+	<title>RAGE Playlists</title>
 	<link>plugin://plugin.video.youtube/channel/rageabc1987/playlists/</link>
 	<thumbnail></thumbnail>
 </plugin>
