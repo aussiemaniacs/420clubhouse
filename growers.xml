@@ -1,13 +1,17 @@
 <xml>
 
 <plugin>
+<title>Growing Exposed</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/growing%20exposed.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/793873665787953152/leZj8TNM.jpg</thumbnail>
+</plugin>
+  
+<plugin>
 <title>Weed growing</title>
 <link>plugin://plugin.video.youtube/playlist/PLTGAb0B6mUW7Mi0cxwH_QcN0vO8pmWy5f/</link>
 <thumbnail>https://scx1.b-cdn.net/csz/news/800/2015/cannabis.jpg</thumbnail>
 </plugin>
-  
-
-  
+    
 <plugin>
 <title>How to grow marijuana course for dummies - Growing Cannabis Indoors 101</title>
 <link>plugin://plugin.video.youtube/playlist/PLo3Y-Awfn_fMcL5Lx5Mb9WBEIRL0IlSrh/</link>
