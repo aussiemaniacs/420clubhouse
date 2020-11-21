@@ -15,3 +15,10 @@
     <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
     <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
 </plugin>
+
+<item>
+	<title>test</title>
+	<link>http://cdnak11.cast4u.info/channels/4/10804.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
