@@ -61,3 +61,38 @@
 	<fanart></fanart>
 </item>
 
+<item>
+	<title>1 Music Channel </title>
+	<link>https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8</link>
+	<thumbnail>https://static.wikia.nocookie.net/tvfan/images/e/e4/1music.jpg/revision/latest?cb=20191108065728</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>4FUN TV </title>
+	<link>https://stream.4fun.tv:8888/hls/4f_high/index.m3u8</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/4fun-tv.jpg/250px-4fun-tv.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>ACB TV </title>
+	<link>http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8</link>
+	<thumbnail>https://mishadioxin.com/img/portfolio/ACB%20TV.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Afrobeats 24/7 </title>
+	<link>https://stream.ecable.tv/afrobeats/index.m3u8</link>
+	<thumbnail>https://i.ytimg.com/vi/V9pVSpGzP2o/maxresdefault.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>City Music TV</title>
+	<link>https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart>https://image.roku.com/developer_channels/prod/743cad246498611ec851f0aa6612af06fbc07593d39cb9f510bcb1612f09358e.png</fanart>
+</item>
+
