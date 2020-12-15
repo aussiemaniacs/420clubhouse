@@ -1,9 +1,9 @@
 <dir>
-		<title>Music</title>
-		<link>http://LINK_TO_YOUR_SERVER_OR_LOCAL_FILE/music.xml</link>
+		<title>Concerts</title>
+		<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
 	</dir>
 	
 	<dir>
-		<title>Music</title>
+		<title>24/7 Channels</title>
 		<link>http://LINK_TO_YOUR_SERVER_OR_LOCAL_FILE/music.xml</link>
 	</dir>
