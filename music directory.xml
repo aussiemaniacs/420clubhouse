@@ -1,9 +1,16 @@
 <dir>
-		<title>Concerts</title>
-		<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
-	</dir>
+	<title>Concerts</title>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+</dir>
 	
-	<dir>
-		<title>24/7 Channels</title>
-		<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
-	</dir>
+<dir>
+	<title>24/7 Channels</title>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
+</dir>
+
+<dir>
+	<name>Radio</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
