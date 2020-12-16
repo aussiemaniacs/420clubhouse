@@ -96,3 +96,51 @@
 	<fanart>https://image.roku.com/developer_channels/prod/743cad246498611ec851f0aa6612af06fbc07593d39cb9f510bcb1612f09358e.png</fanart>
 </item>
 
+<item>
+	<title>California Music Channel </title>
+	<link>https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8</link>
+	<thumbnail>https://static.wikia.nocookie.net/tvpedia/images/1/1b/California_Music_Channel.gif/revision/latest/scale-to-width-down/340?cb=20201020181145&path-prefix=ru</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Ditty TV</title>
+	<link>https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8</link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61EbPz81MHL.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Magic TV</title>
+	<link>https://itv.streams.ovh/magictv/magictv/playlist.m3u8</link>
+	<thumbnail>https://ewsat.com/img/MAGIC.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Retro Music Television </title>
+	<link>http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>V2BEAT TV </title>
+	<link>https://abr.de1se01.v2beat.live/playlist.m3u8</link>
+	<thumbnail>https://lh3.googleusercontent.com/weEGZCPdiiBdzmLtks1MSV4gvkpVSlBzSapvX0FRyAw1PBJD_W0oOV5y9AsEqBGWZ9KR</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>30a TV</title>
+	<link>https://30a-tv.com/music.m3u8</link>
+	<thumbnail>https://image.winudf.com/v2/image/YXR2LnZpZGVvLnJzc19pY29uXzE1MDM3NTI4NDlfMDg4/icon.png?w=170&fakeurl=1</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Box Hits UK</title>
+	<link>http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png</thumbnail>
+	<fanart></fanart>
+</item>
