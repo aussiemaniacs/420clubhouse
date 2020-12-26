@@ -6,8 +6,8 @@
 </item>
 
 <item>
-	<title></title>
-	<link></link>
+	<title>test</title>
+	<link>http://192.168.0.1:1900/rootDesc.xml</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
