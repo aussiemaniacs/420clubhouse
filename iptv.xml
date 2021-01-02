@@ -30,16 +30,3 @@
 	<fanart></fanart>
 </dir>
 
-<dir>
-	<name>test</name>
-	<link>https://sv2.data-stream.top/f1b69f034ffa42ced314771dd119e8099b9622df82530a585094dc426adbf831/hls/sunny-84431.ts|Referer=https://www.stream4free.live/&Origin=https://www.stream4free.live</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-	<name>test m3u8</name>
-	<link>https://sv2.data-stream.top/f1b69f034ffa42ced314771dd119e8099b9622df82530a585094dc426adbf831/hls/sunny.m3u8</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
