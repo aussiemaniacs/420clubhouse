@@ -16,23 +16,9 @@
     <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
 </plugin>
 
-<item>
-    <title>Various Shows</title>
-    <link>http://cdnak11.cast4u.info/channels/4/10804.m3u8</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</item>
-
 <dir>
-	<name>24/7 Channels</name>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
-
-<item>
-    <title></title>
-    <link></link>
+    <name>24/7 Channels</name>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels.xml</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
-</item>
+</dir>
