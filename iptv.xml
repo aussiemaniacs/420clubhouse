@@ -17,6 +17,13 @@
 </plugin>
 
 <dir>
+    <name>24/7 Channels (f4m tester Needed)</name>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels%20f4m.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
     <name>24/7 Channels</name>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels.xml</link>
     <thumbnail></thumbnail>
