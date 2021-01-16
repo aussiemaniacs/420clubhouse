@@ -24,8 +24,16 @@
 </dir>
 
 <plugin>
-	<title>test 501 sports</title>
+	<title>test 501 sports m3u</title>
 	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://cdn.sha-256.org/777446287/Bs8ivk5ihq/4474</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
+</plugin>
+
+<plugin>
+	<name>test 2 501 f4m</name>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://cdn.sha-256.org/777446287/Bs8ivk5ihq/4474</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<summary></summary>
 </plugin>
