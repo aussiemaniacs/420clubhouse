@@ -34,3 +34,21 @@
 <title>TEST 501 cricket</title>
 <link>plugin://plugin.video.f4mTester/?url=http://23.237.190.50:8080/777446287/Bs8ivk5ihq/4474?token=HUMLVBFbFQpBUFcFWldTVAMDUwhUVwYHVVwGVQZTXARSWVUBAAVRCAIWH0YQQURTB1pvUQUTCwBSDwVNFkAXUhQ+ClFACRUHVAMHUFUHDgFEGxJMCFxUFlwJB1AEAVEEVVRbGUBDXlRBDl0RD1kaFANPRF0TX1BYOVxUF11WARVcDxZZDh8VXw1rVwEOVFhSRA0SCUMdE10VSBNbWkAIW0pDAVwWQVZEBhYJChZZWhpEVF9ND0VDTUQCEyBhF0gVAxkXUAxAXl8NFglGF0YUGkReQ2cTVEJAFF1QDFFHRg1EUUEZQF5WSDxXXAoNUFVCD1heS0MLEwZEFBMMW1sNQwkTPEULVxUKDUFfCB4=&streamtype=TSDOWNLOADER</link>
 </item>
+
+<item>
+	<title>test</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt13276386</imdb>
+		<title>Shawn Mendes: In Wonder</title>
+		<year>2020</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail>https://m.media-amazon.com/images/M/MV5BNDRkMGM5YTQtOGMzZS00ZGJiLTg5YWMtYjg4NTcyZTk0MzAzXkEyXkFqcGdeQXVyMTI0OTAwOTgy._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart>https://variety.com/wp-content/uploads/2020/11/Shawn_Mendes__In_Wonder_00_45_47_06_RC-e1606611650905.jpeg?w=681&h=383&crop=1</fanart>
+</item>
