@@ -45,8 +45,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://23.237.190.50:8080/777446287/Bs8ivk5ihq/4465?token=HUMLVBFbFQpBBgdVVAUGVABSUwBVVAQGVlwIUQxRXQFSAAcAUFVRBAcWH0YQQURTB1pvUQUTCwBSDgRNFkAXUhQ+ClFACRUHVAMHUFUHDgFEGxJMCFxUFlwJB1ENBFYBX1lTGUBDXlRBDhFWVgYEBkQbEl0ZRVRGCFldPlBQEl4FBEEPDEZbXE8WXAo8UVNbB1lUGlsTABZKGlgSRBdeWRMNDxlAUV5EEVVHAUEPWEMKWxwaAl5EWhJKSEMOFyViRE1BUBpHUl4QXVwKQQ8UQhUVHBoIQm5GA0tFE1FUCVIUQ1kXUhEbEg5VSzsAWlhYA1REUQ5fQhZcGgNDGBcJWAgIF1oQbEdZBxYJRlEABABRFU0==&streamtype=TSDOWNLOADER</link>
 </item>
 
-<plugin>
-	<title>playing ROUND</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://p-cdn6-e-cg14-linear-cbd46b77.movetv.com/clipslist/22/20210124T053000Z/20210124T083000Z.mpd?rel=0&showinfo=0&autoplay=1&playsinline=1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36</link>
-	<thumbnail></thumbnail>
-</plugin>
+<item>
+<title>spanish</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino.2021.02.04.m3u</link>
+</item>
