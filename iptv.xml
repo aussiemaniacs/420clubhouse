@@ -45,7 +45,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://23.237.190.50:8080/777446287/Bs8ivk5ihq/4465?token=HUMLVBFbFQpBBgdVVAUGVABSUwBVVAQGVlwIUQxRXQFSAAcAUFVRBAcWH0YQQURTB1pvUQUTCwBSDgRNFkAXUhQ+ClFACRUHVAMHUFUHDgFEGxJMCFxUFlwJB1ENBFYBX1lTGUBDXlRBDhFWVgYEBkQbEl0ZRVRGCFldPlBQEl4FBEEPDEZbXE8WXAo8UVNbB1lUGlsTABZKGlgSRBdeWRMNDxlAUV5EEVVHAUEPWEMKWxwaAl5EWhJKSEMOFyViRE1BUBpHUl4QXVwKQQ8UQhUVHBoIQm5GA0tFE1FUCVIUQ1kXUhEbEg5VSzsAWlhYA1REUQ5fQhZcGgNDGBcJWAgIF1oQbEdZBxYJRlEABABRFU0==&streamtype=TSDOWNLOADER</link>
 </item>
 
-<item>
-<title>spanish</title>
-<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino.xml</link>
-</item>
+<plugin>
+	<title>M3U Name</title>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</plugin>
