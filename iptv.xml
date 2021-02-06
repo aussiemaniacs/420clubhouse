@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>dubox test 2</title>
-<link>plugin://plugin.video.f4mTester/?url=https://dubox.com/s/1WJKZZkbqH0HHM1skuvtkfA&streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+     <title>dubox test 2</title>
+     <link>plugin://plugin.video.f4mTester/?url=https://dubox.com/s/1WJKZZkbqH0HHM1skuvtkfA&streamtype=TSDOWNLOADER</link>
+     <thumbnail></thumbnail>
 </item>
