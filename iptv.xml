@@ -30,15 +30,9 @@
     <fanart></fanart>
 </dir>
 
-<item>
-    <title>dubox test agro 2</title>
-    <link>https://v-jp.dubox.com/video/netdisk-videotran-japan/53dbd5f947b8795438c6e1ce07f2bef1_1074_1_ts/2a3660db57c0d058b7012bab71ac46e8?ts_size=21219184&app_id=250528&ccn=ZZ&csl=0&dp-logid=849177548334438522&fn=Agro+Adults+Only+%28480p%29.mp4&fsid=677300541418609&isplayer=1&iv=2&logid=849177548334438522&ouk=4402285663992&r=306073573&size=45069032&sta_cs=7&sta_dt=video&sta_dx=42&time=1612622632&to=gdj&tot=cqDvn&uo=any&uva=3758130359&vuk=&etag=2a3660db57c0d058b7012bab71ac46e8&fid=fdbb91c59b3cf589db610251ff607252-&len=775876&range=11062860-11838735&region=japan&sign=BOUTHNF-F3530edecde9cd71b79378b290804a96-FQxP6dYZQaZjX5KtkMc%252B1jgUi6Q%253D&need_suf=&pmk=14002a3660db57c0d058b7012bab71ac46e8765f139a00000143c770&by=my-streaming</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</item>
-
-<item>
-     <title>dubox test 3</title>
-     <link>plugin://plugin.video.f4mTester/?url=https://www.dubox.com/web/share/link?surl=WJKZZkbqH0HHM1skuvtkfA&streamtype=TSDOWNLOADER</link>
-     <thumbnail></thumbnail>
-</item>
+<plugin>
+	<title>Movies-VOD-2021-02-06</title>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Movies-VOD-2021-02-06.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</plugin>
