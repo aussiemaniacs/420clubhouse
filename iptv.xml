@@ -36,3 +36,17 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </plugin>
+
+<plugin>
+	<title>tv-VOD-2021-02-06</title>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=LINK</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</plugin>
+
+<item>
+	<title>aUSSIE 1</title>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/aussie%20test.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
