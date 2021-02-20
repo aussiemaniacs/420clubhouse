@@ -30,23 +30,11 @@
     <fanart></fanart>
 </dir>
 
-<plugin>
-	<title>Movies-VOD-2021-02-06</title>
-	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Movies-VOD-2021-02-06.m3u</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</plugin>
-
-<plugin>
-	<title>tv-VOD-2021-02-06</title>
-	<link>plugin://plugin.video.live.streamspro/?mode=1&url=LINK</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</plugin>
-
 <item>
-	<title>aUSSIE 1</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/aussie%20test.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+<title>FOX SPORTS News FHD</title>
+<link>
+	<sublink>plugin://plugin.video.f4mTester/?url=http://23.237.190.50:8080/777446287/Bs8ivk5ihq/66676006?token=HUMLVBFbFQpBUAUFWlYHU1NVUwxWCAMABAkEVFEAUgJXVlIMAwABAVQWH0YQQURTB1pvUQUTCwJQDgZXBAVSG0QUEFAQbF5UQQ4RU1QCAgJQBQgPQx0TQA9VVEMOBFIGVVlSB1EGBhxBRFoAQQ9YQwpbHBoESUVRFFZQDWtRAUEPAgYXWF1CXA8YEQsNalJTC1ZeXEMLEwVEFBMIR0VGDQgUD1lOEVVZF0ZSEAYXDFgTW1wUQ1JeQQhMQxgWD0Z2M0NPFwdLQ1UNR1oLDRcMFBJEEhRDWEJrFF1CFUZQBVoDE0EPQAMVHEFZUhw8VllYCFJTTAheX0dEAhNTFhlGWgkPCkENQWhAClARXg1AWlob&streamtype=TSDOWNLOADER</sublink>
+	<sublink>plugin://plugin.video.f4mTester/?url=http://23.237.190.50:8080/777446287/Bs8ivk5ihq/4475?token=HUMLVBFbFQpBVVZVVAMOBFAPA1pZAAdSXgkIA1cMVwFTVgdQUgtWCAYWH0YQQURTB1pvUQUTCwBSDwRNFkAXUhQ+ClFACRUHVAMHUFUHDgFEGxJMCFxUFlwJB1AHDVUEX1dbGUBDXlRBDl0RD1kaFANPRF0TX1BYOVxUF11WARVcDxZZDh8VXw1rVwEOVFhSRA0SCUMdE10VSBNbWkAIW0pDAVwWQVZEBhYJChZZWhpEVF9ND0VDTUQCEyBhF0gVAxkXUAxAXl8NFglGF0YUGkReQ2cTVEJAFF1QDFFHRg1EUUEZQF5WSDxXXAoNUFVCD1heS0MLEwZEFBMMW1sNQwkTPEULVxUKDUFfCB4=&streamtype=TSDOWNLOADER</sublink>
+</link>
+<thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png</thumbnail>
 </item>
