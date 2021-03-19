@@ -4,10 +4,15 @@
 </dir>
 
 <dir>
+	<name>Music Videos</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20videos.xml</link>
+</dir>
+
+<dir>
 	<name>Music Documentaries</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20docos.xml</link>
 </dir>
-	
+
 <dir>
 	<title>24/7 Channels</title>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
