@@ -1,6 +1,11 @@
 <dir>
 	<name>Metallica</name>
-	<link></link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/metalica.xml</link>
+	<thumbnail>https://i.ebayimg.com/images/g/7E8AAOSwqDJfb9zE/s-l300.jpg</thumbnail>
+</dir>
+
+<dir>
+	<name>Shinedown</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/shinedown.xml</link>
+	<thumbnail>https://i.pinimg.com/originals/75/05/25/75052554c60aab85f8e52e7249012d9a.jpg</thumbnail>
 </dir>
