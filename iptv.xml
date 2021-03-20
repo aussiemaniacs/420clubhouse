@@ -23,3 +23,14 @@
     <fanart></fanart>
 </dir>
 
+<item>
+<title>test 506 test 1 ott</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pn.tvott.info:80/477871051442612/477871051442612/83383&streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>test 506 test 2 185</title>
+<link>plugin://plugin.video.f4mTester/?url=http://185.71.64.167:80/307260746675/307260746675/83383&streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
