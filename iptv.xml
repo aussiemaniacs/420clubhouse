@@ -9,13 +9,6 @@
     <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
 </plugin>
 
-<plugin>
-    <title>Livenet</title>
-    <link>plugin://script.clubhouselivenet</link>
-    <thumbnail>special://home/addons/script.420tvtap/icon.png</thumbnail>
-    <fanart>special://home/addons/script.420tvtap/fanart.jpg</fanart>
-</plugin>
-
 <dir>
     <name>24/7 Channels (f4m tester Needed)</name>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels%20f4m.xml</link>
