@@ -6,8 +6,92 @@
 </dir>
 
 <dir>
-	<name></name>
-	<link></link>
-	<thumbnail></thumbnail>
+	<name>Full Adventure Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20adventure%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/BnxLfMj3f7c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBeTEmww_PwgXpGtdXFkwqXvkFo0g</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Comedy Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20comedy%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/rci7BHiJ3s4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA7k126i86P52yj4gMz1ou34t9aFA</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Drama Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20drama%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/t44rXn6lu-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZR8ByDUk33mv7gT0HFQTaamXTyw</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Family Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20family%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/LeSbtaSQERE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzQJtMEI85C-xqty4Lha4Ev2WJ_Q</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Christmas Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20christmas%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/ppuK36u-yio/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJR-ZbvkZCYj9NdscrsmZMMDyBSQ</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Mini Series</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20mini%20series.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/7IZ0AGrAeaA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFGbUK4R27fjI9Se5gVqExYyFd5g</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Monster Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20monster%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/O_dE4OPfbWY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJUTSr741HLIQmr6q4_-XX_cDM4w</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Sci-Fi Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20sci%20fi%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/beqTpYdpLrk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQRhJm4gFaO5SC-JDiZeBnB46ENg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full The Asylum Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20the%20asylum%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/b3hTblmha7k/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB643L6hAfx_x85-oTpUeTn5yZ_mA</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Thriller Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20thriller%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/ZbsqoP7G9Uk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLApw2sqqFV6HORMvwQjY0I8Dpx1nQ</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Virus Outbreak Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20virus%20outbreak%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/qMoLvo6ygAs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu6N4-EXSsqV70Ig5iazTX7Rkt_A</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full War Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20war%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/EDbipeq_jSA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBo_QAAWmz3dvcT_5B5E5P2TjhUA</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Full Western Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20western%20movies.xml</link>
+	<thumbnail>https://i.ytimg.com/vi/Jrbsy07L1qY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAbhWliQePcaB5ZsvcLdku44y6t7Q</thumbnail>
 	<fanart></fanart>
 </dir>
