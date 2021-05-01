@@ -53,3 +53,21 @@
 <link>https://1fichier.com/?rdybougr4kvj4haa5x9l</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+  <title>[COLOR=white]Iron Man[/COLOR]</title>
+  <meta>
+  <imdb>tt0371746</imdb>
+  <content>movie</content>
+  <title>Iron Man</title>
+  <year>2008</year>
+  </meta>
+  <link>
+  <sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ofkcLgzNZGM&feature=youtu.be (Play Trailer)</sublink>
+  <sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1726/links/</sublink>
+  <sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Iron%20Man</sublink>
+  <sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/1726?usedefault=True</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
+</item>
