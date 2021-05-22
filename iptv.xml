@@ -121,12 +121,12 @@
 	<fanart></fanart>
 </item>
 
-<item>
+<dir>
 	<title>comedy movies</title>
 	<link>https://iptv-org.github.io/iptv/categories/comedy.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
 <item>
 	<title>Australia Fuel TV (1080p)</title>
