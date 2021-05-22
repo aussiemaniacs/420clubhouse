@@ -122,7 +122,7 @@
 </item>
 
 <dir>
-	<title>comedy movies</title>
+	<title>comedy movies 19 Channels</title>
 	<link>https://iptv-org.github.io/iptv/categories/comedy.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
@@ -135,45 +135,45 @@
 	<fanart></fanart>
 </item>
 
-<item>
+<dir>
 	<title>Documentaries</title>
 	<link>https://iptv-org.github.io/iptv/categories/documentary.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>Entertainment</title>
 	<link>https://iptv-org.github.io/iptv/categories/entertainment.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>Family</title>
 	<link>https://iptv-org.github.io/iptv/categories/family.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>movies</title>
 	<link>https://iptv-org.github.io/iptv/categories/movies.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>Sports</title>
 	<link>https://iptv-org.github.io/iptv/categories/sport.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>English</title>
 	<link>https://iptv-org.github.io/iptv/languages/eng.m3u</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-</item>
+</dir>
 
