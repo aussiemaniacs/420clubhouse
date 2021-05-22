@@ -31,8 +31,149 @@
 </item>
 
 <item>
-	<title>ABC 7</title>
-	<link>http://live.field59.com/wwsb/ngrp:wwsb1_all/master.m3u8</link>
+	<title>Introuble TV (1080p)</title>
+	<link>https://introuble-samsungau.amagi.tv/playlist.m3u8</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
+
+<item>
+	<title>Inwonder TV (720p)</title>
+	<link>https://inwonder-samsungau.amagi.tv/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Snowy Mountains Television (1082p)</title>
+	<link>https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>247 Retro TV</title>
+	<link>http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8</link>
+	<thumbnail>https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>AMC Rush</title>
+	<link>https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8</link>
+	<thumbnail>https://i.imgur.com/yngqRL8.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>American Horrors Movies</title>
+	<link>http://170.178.189.70:1935/live/Stream1/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Comedy Cental Pluto</title>
+	<link>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Crackle</title>
+	<link>https://crackle-plex.amagi.tv/playlist.m3u8</link>
+	<thumbnail>https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Drink TV</title>
+	<link>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62</link>
+	<thumbnail>https://i.imgur.com/ZAqKTkp.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Failarmy (Australia)</title>
+	<link>https://failarmy-international-au.samsung.wurl.com/manifest/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Family Flix</title>
+	<link>https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8</link>
+	<thumbnail>https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Fat Guys in the Woods</title>
+	<link>https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8</link>
+	<thumbnail>https://f9q4g5j6.ssl.hwcdn.net/5fbebd6c1ed3cd231349ddc2</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Fear This! Sci-Fi</title>
+	<link>https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>comedy movies</title>
+	<link>https://iptv-org.github.io/iptv/categories/comedy.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Australia Fuel TV (1080p)</title>
+	<link>https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8</link>
+	<thumbnail>https://i.imgur.com/XboGSjX.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Documentaries</title>
+	<link>https://iptv-org.github.io/iptv/categories/documentary.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Entertainment</title>
+	<link>https://iptv-org.github.io/iptv/categories/entertainment.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Family</title>
+	<link>https://iptv-org.github.io/iptv/categories/family.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>movies</title>
+	<link>https://iptv-org.github.io/iptv/categories/movies.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>Sports</title>
+	<link>https://iptv-org.github.io/iptv/categories/sport.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title>English</title>
+	<link>https://iptv-org.github.io/iptv/languages/eng.m3u</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
