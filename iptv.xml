@@ -24,31 +24,15 @@
 </dir>
 
 <item>
-<title>ABC NEWS</title>
-<link>https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8&streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+	<title>Dry Bar Comedy</title>
+	<link>https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8</link>
+	<thumbnail>https://www.austinchronicle.com/binary/548b/data-1.png</thumbnail>
+	<fanart></fanart>
 </item>
 
 <item>
-<title>ABC Sydney</title>
-<link>https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index.m3u8&streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ABC Melbourne</title>
-<link>https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8&streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-   <title>ABC NEWS 2</title>
-   <link>https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8</link>
-   <thumbnail></thumbnail>
-</item>
-
-<item>
-   <title>ABC NEWS 3</title>
-   <link>https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8</link>
-   <thumbnail></thumbnail>
+	<title>ABC 7</title>
+	<link>http://live.field59.com/wwsb/ngrp:wwsb1_all/master.m3u8</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
