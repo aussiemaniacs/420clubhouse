@@ -5,73 +5,73 @@
 </item>
 	
   <dir>
-   <name>Cheech and Chong</name>
+   <title>Cheech and Chong</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/ccmenu.xml</link>
    <thumbnail>https://2trlab2tfeld3rfxhw3mhy79-wpengine.netdna-ssl.com/wp-content/uploads/51olnxWBHqL-1.jpg</thumbnail
-   <fanart>https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNNBCUFILMHD.COM_TVNH0012791401200511.jpg</fanart>
+   #<fanart>https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNNBCUFILMHD.COM_TVNH0012791401200511.jpg</fanart>
   </dir>
 	
   <dir>
-   <name>Monty Python</name>
+   <title>Monty Python</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/monty%20python.xml</link>
    <thumbnail>https://m.media-amazon.com/images/I/71zVMFyW-FL._SS500_.jpg</thumbnail>
-   <fanart>https://images6.alphacoders.com/341/thumb-1920-341198.jpg</fanart>
+   #<fanart>https://images6.alphacoders.com/341/thumb-1920-341198.jpg</fanart>
   </dir>
 	
   <dir>
-   <name>Stoner Movies</name>
+   <title>Stoner Movies</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/stoner%20movies.xml</link>
    <thumbnail>https://i1.sndcdn.com/artworks-000032187146-geatfq-t500x500.jpg</thumbnail>
-   <fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
+   #<fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
   </dir>
 
   <dir>
-   <name>Stoner TV Shows</name>
+   <title>Stoner TV Shows</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv%20clickers.xml</link>
-   <thumbnail>https://m.media-amazon.com/images/I/71BN89PDSkL._SS500_.jpg</thumbnail>
+   #<thumbnail>https://m.media-amazon.com/images/I/71BN89PDSkL._SS500_.jpg</thumbnail>
    <fanart>https://images.amcnetworks.com/ifc.com/wp-content/uploads/2015/11/That-70s-Show-Stoner-Wisdom.jpg</fanart>
   </dir>
 
    <dir>
-   <name>Stoner Recipes</name>
+   <title>Stoner Recipes</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/weed%20recipes.xml</link>
    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513rtdxagPL.jpg</thumbnail>
-   <fanart>https://static1.squarespace.com/static/5541baefe4b0d1854a60b4bc/5541bb17e4b006d7e513e4de/5b82ee4d88251bb51ff62593/1535308070727/Edibles_Cookbook_Sneakpeek.jpg?format=1000w</fanart>
+   #<fanart>https://static1.squarespace.com/static/5541baefe4b0d1854a60b4bc/5541bb17e4b006d7e513e4de/5b82ee4d88251bb51ff62593/1535308070727/Edibles_Cookbook_Sneakpeek.jpg?format=1000w</fanart>
    </dir>
 
    <dir>
-   <name>Growers</name>
+   <title>Growers</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/growers.xml</link>
    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkUvVFsl_YtCt8xrFWX2-NpctG385tYZknjupVA1wJq41prOI&s</thumbnail>
-   <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
+   #<fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
 </dir>
 
   <dir>
-   <name>Concerts</name>
+   <title>Concerts</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
    <thumbnail>https://static01.nyt.com/images/2020/03/12/arts/12virus-concerts2/merlin_170369790_63d02a4c-82f8-441a-ac7c-c395828b7961-mobileMasterAt3x.jpg</thumbnail>
-   <fanart></fanart>
+   #<fanart></fanart>
   </dir>
 
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/search.png</thumbnail>
-    <fanart>https://vidooly.com/blog/wp-content/uploads/2019/05/netflix-shows-amazon-prime-series-best-shows-on-hotstar-premium-sonlyliv1.jpg</fanart>
+    #<fanart>https://vidooly.com/blog/wp-content/uploads/2019/05/netflix-shows-amazon-prime-series-best-shows-on-hotstar-premium-sonlyliv1.jpg</fanart>
   </dir>
   
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/movies.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/movies.png</thumbnail>
-    <fanart>https://wallpapercave.com/wp/wp1945898.jpg</fanart>
+    #<fanart>https://wallpapercave.com/wp/wp1945898.jpg</fanart>
   </dir>
   
   <dir>
     <title>TV</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/tvshows.png</thumbnail>
-    <fanart>https://tvseriesfinale.com/wp-content/uploads/2016/03/canceled-tv-shows-733x366_c.jpg</fanart>
+    #<fanart>https://tvseriesfinale.com/wp-content/uploads/2016/03/canceled-tv-shows-733x366_c.jpg</fanart>
   </dir>
 	
   <item>
@@ -81,5 +81,3 @@
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/clubhouseartwork/master/tools.png</thumbnail>
     <fanart>https://wallpapercave.com/wp/wp2474805.jpg</fanart>
     </item>
-
- 
