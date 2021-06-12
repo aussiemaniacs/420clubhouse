@@ -24,7 +24,7 @@
    <thumbnail>https://i1.sndcdn.com/artworks-000032187146-geatfq-t500x500.jpg</thumbnail>
    <fanart>https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/ed214b2f-3557-48d6-ac9b-ecfefd463207/thumbnail/1200x630/8993d15d6901738e3dd25f2c423b5c8a/pineapple-express-james-franco-seth-rogen-columbia-660.jpg</fanart>
   </dir>
-	
+
   <dir>
    <name>Stoner TV Shows</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tv%20clickers.xml</link>
@@ -45,6 +45,13 @@
    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkUvVFsl_YtCt8xrFWX2-NpctG385tYZknjupVA1wJq41prOI&s</thumbnail>
    <fanart>https://natgeo.imgix.net/factsheets/thumbnails/01-marijuana-farming.adapt.1900.1.jpg?auto=compress,format&w=1024&h=560&fit=crop</fanart>
 </dir>
+
+  <dir>
+   <name>Concerts</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+   <thumbnail>https://static01.nyt.com/images/2020/03/12/arts/12virus-concerts2/merlin_170369790_63d02a4c-82f8-441a-ac7c-c395828b7961-mobileMasterAt3x.jpg</thumbnail>
+   <fanart></fanart>
+  </dir>
 
   <dir>
     <title>Search Movie or TV</title>
