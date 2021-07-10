@@ -11,3 +11,10 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
+
+<item>
+	<title>test rip</title>
+	<link>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
