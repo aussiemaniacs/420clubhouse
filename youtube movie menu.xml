@@ -55,6 +55,20 @@
 </dir>
 
 <dir>
+	<name>Full Classic Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20Classic%20Movies.xml</link>
+	<thumbnail>https://i.pinimg.com/originals/f1/15/00/f115003b6c2327c424336b42635d7916.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>More Classic Movies</name>
+	<link></link>
+	<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/msdgowi-ec001-1551470524.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
 	<name>Full Christmas Movies</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20christmas%20movies.xml</link>
 	<thumbnail>https://i.ytimg.com/vi/ppuK36u-yio/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJR-ZbvkZCYj9NdscrsmZMMDyBSQ</thumbnail>
