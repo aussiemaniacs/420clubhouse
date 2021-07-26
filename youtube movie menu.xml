@@ -41,6 +41,20 @@
 </dir>
 
 <dir>
+	<name>Full Classic Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20Classic%20Movies.xml</link>
+	<thumbnail>https://i.pinimg.com/originals/f1/15/00/f115003b6c2327c424336b42635d7916.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>More Classic Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/More%20Classic%20Movies.xml</link>
+	<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/msdgowi-ec001-1551470524.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
 	<name>Full Drama Movies</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20drama%20movies.xml</link>
 	<thumbnail>https://i.ytimg.com/vi/t44rXn6lu-4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZR8ByDUk33mv7gT0HFQTaamXTyw</thumbnail>
@@ -51,20 +65,6 @@
 	<name>Full Family Movies</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/full%20family%20movies.xml</link>
 	<thumbnail>https://i.ytimg.com/vi/LeSbtaSQERE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzQJtMEI85C-xqty4Lha4Ev2WJ_Q</thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-	<name>Full Classic Movies</name>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20Classic%20Movies.xml</link>
-	<thumbnail>https://i.pinimg.com/originals/f1/15/00/f115003b6c2327c424336b42635d7916.jpg</thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-	<name>More Classic Movies</name>
-	<link></link>
-	<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/msdgowi-ec001-1551470524.jpg</thumbnail>
 	<fanart></fanart>
 </dir>
 
