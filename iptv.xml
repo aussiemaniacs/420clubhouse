@@ -2,6 +2,26 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<item>
+<title>swearnet</title>
+<link>https://dood.la/e/mnoji6l4efben3566yp8czrx0o9a13o4</link>
+<thumbnail>https://i.pinimg.com/originals/91/28/da/9128da6129f41894b20e5f37d608553a.jpg</thumbnail>
+<fanart>https://mocah.org/uploads/posts/517270-alien-isolation.jpg</fanart>
+</item>
+
+<item>
+    <title>Swearnet: The Movie 2014</title>
+    <meta>
+        <imdb>tt2380564</imdb>
+        <content>movie</content>
+        <title>Swearnet The Movie</title>
+        <year>2014</year>
+    </meta>
+    <link>https://dood.la/e/mnoji6l4efben3566yp8czrx0o9a13o4</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8c/Swearnet_poster.jpg</thumbnail>
+    <fanart>https://dz9aqlfbnvif7.cloudfront.net/uploads/season/season_image/78/8c6a3bed-2a36-4d19-bfaf-a530c1c0eb3f.jpeg</fanart>
+</item>
+
 <plugin>
     <title>TvTap</title>
     <link>plugin://script.420tvtap/</link>
