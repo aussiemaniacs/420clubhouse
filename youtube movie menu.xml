@@ -1,4 +1,11 @@
 <dir>
+	<name>HD Full Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/HD%20Full%20Movies.xml</link>
+	<thumbnail>https://apprecs.org/gp/images/app-icons/300/8d/movies.hd.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
 	<name>Full Action Movies</name>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Full%20action%20movies.xml</link>
 	<thumbnail>https://i.ytimg.com/vi/m2EDg4_YUEs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-5Ecj8LW8ynbIwgjkJKC6VPqPNQ</thumbnail>
