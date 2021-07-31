@@ -1,36 +1,36 @@
 <dir>
-	<title>Concerts</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+<title>Concerts</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
 </dir>
 
 <dir>
-	<title>Music Videos</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20videos.xml</link>
+<title>Music Videos</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20videos.xml</link>
 </dir>
 
 <dir>
-	<title>Music Documentaries</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20docos.xml</link>
+<title>Music Documentaries</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20docos.xml</link>
 </dir>
 
 <dir>
-	<title>24/7 Channels</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
+<title>24/7 Channels</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
 </dir>
 
 <dir>
-	<title>Radio</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml</link>
+<title>Radio</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml</link>
 </dir>
 
 <dir>
-	<title>Spanish music videos</title>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino%20music%20videos.xml</link>
+<title>Spanish music videos</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino%20music%20videos.xml</link>
 </dir>
 
 <dir>
-	<name>Concerts</name>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+<name>Concerts</name>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
