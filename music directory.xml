@@ -4,12 +4,12 @@
 </dir>
 
 <dir>
-	<name>Music Videos</name>
+	<title>Music Videos</title>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20videos.xml</link>
 </dir>
 
 <dir>
-	<name>Music Documentaries</name>
+	<title>Music Documentaries</title>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%20docos.xml</link>
 </dir>
 
@@ -19,7 +19,7 @@
 </dir>
 
 <dir>
-	<name>Radio</name>
+	<title>Radio</title>
 	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml</link>
 </dir>
 
