@@ -28,16 +28,9 @@
 <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino%20music%20videos.xml</link>
 </dir>
 
-<dir>
-<name>Concerts</name>
-<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/concerts.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
-
 <item>
-<title>f9 m3u8 test</title>
-<link>https://www34.sbcdnvideo.com/hls/tysxesvxlw66j6cdabxr5sihon2rs4er7legtg7mndneqvas7k5gwbtjkixa/index-v1-a1.m3u8</link>
+<title>english test</title>
+<link>https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/zxdlgb.m3u8?s=_ZsJZ8f5yMGZ_FjQDwsN9A&e=1629482429</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
