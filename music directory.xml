@@ -35,3 +35,8 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>test 1</title>
+<link>plugin://plugin.video.f4mTester/?url=chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://b-g-ca-3.betterstream.co:2222/v2-hls-playback/6fc4d5723496d3723ee54c2a039ede6787bb77e938670c5b4d7b9a2ee27ddf1b596ff4c7638240f7acbc65543e5a7bbbd08dbac5e0f6d9168b3a1cb66ac96c5f82a41eebd249a3ea26b803bc5cb6879218a47b5e78a05ccdf8d7de7779f7366fda2043a429b0770a9fed9003f58b0fc89c19d8a02a12901ed9b8229c08408e25fbc773cb5bfc54ad46bc29b4ab20aaed76350a9ba6a104af671227fc22e869269499d83f3839cf7ed2a6930cb7bbeaf7/720/index.m3u8&streamtype=TSDOWNLOADER</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg</thumbnail>
+</item>
