@@ -1,0 +1,48 @@
+<dir>
+	<name>Cheech & Chong</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/Ccmovies.xml</link>
+	<thumbnail>https://fanart.tv/fanart/movies/13612/moviebackground/cheech--chongs-next-movie-54d6191e2a141.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Monty Python</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/monty%20python.xml</link>
+	<thumbnail>https://m.media-amazon.com/images/M/MV5BZGU1NGRiN2MtM2M3MS00MTIyLWIzNGMtMWNiYmY1YWY3YTc0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_SY1000_CR0,0,1671,1000_AL_.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Stoner Movies</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/stoner%20movies.xml</link>
+	<thumbnail>https://www.imdb.com/title/tt0064276/mediaviewer/rm1288191232</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Stoner Series</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/absinthe/main/tv%20clickers.xml</link>
+	<thumbnail>https://prodimage.images-bn.com/pimages/0031398253747_p0_v1_s550x406.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name></name>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+<dir>
+	<name></name>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name></name>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
