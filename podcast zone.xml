@@ -1,0 +1,79 @@
+ <dir>
+ <title>The Joe Rogan Experience</title>
+ <link>plugin://plugin.video.youtube/channel/UCzQUP1qoWDoEbmsQxvdjxgQ/</link>
+ <thumbnail>https://yt3.ggpht.com/a-/AAuE7mDIygpHO-9UrB4lq2nzzUNScl6r4Tr3WB6dPw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+  <podbay>pbshow/360084272</podbay>
+  </dir>
+	
+<dir>
+<name>Joe Budden Podcast</name>
+<link>plugin://plugin.video.youtube/channel/UC23_r1bpkTWaBltbXsQxysA/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCeSIjxgBCh_sqvwHTByI4HF_G-D0EB6qVLnA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>N.O.R.E. Drink Champs</title>
+<link>plugin://plugin.video.youtube/playlist/PL3RrCU7ySkS5SoKb0uXWITXUHDNNCBu3u/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/700938090232152064/XaXNkyhN_400x400.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>Everyday Struggle</title>
+<link>plugin://plugin.video.youtube/playlist/PLNE967m3_UeTvS931kMG-XzHSGtegfwhj/</link>
+<thumbnail>https://lh6.googleusercontent.com/proxy/y3ocgIKEzcEbKbt14xbu7okLU5EnzD7aI_zKlBMlMIiAdNdU466kswqj8FRZ1OISJtDH6hisiKSld1oSTTcMB76Fb5s5mlzZMI9y5KfijYAYbD7U7F-Nayok0mG8MdHrUT7EeFv6oLdZ88O-vpI=-p</thumbnail>
+</plugin>
+
+<plugin>
+<title>Nick Cannon Mornings</title>
+<link>plugin://plugin.video.youtube/playlist/PL6_D_sRVb2L7VjzsmSA-plPOwIoFnaWSN/</link>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l79CTmYehfduX4NeYDAV_wg8v6CQ8TRgBNOn7A=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<title>State Of The Culture</title>
+<link>plugin://plugin.video.youtube/playlist/PL3RrCU7ySkS4RQBJ3xZhDqeler49IezkP/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCv3Pem2o_wsD0gak7i8H5WkjP86-D8Lo5enw=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
+<title>H3 Podcast</title>
+<link>plugin://plugin.video.youtube/playlist/PLvcSNZqNYJCkRDNbwz4mj3JvoKY25fIdE/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mBEPF-5jQijrnZdAZ4iKCG9kagk027ObrP9ww=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<dir>
+<name>Mile Higher Podcast</name>
+<link>plugin://plugin.video.youtube/channel/UCiaxrqSxVoGxGKg7Ayd4Q9A/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAl5ma_kNyf00nwKWsFxPRxooVtuF8_nppC8A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>BERTCAST</title>
+<link>plugin://plugin.video.youtube/playlist/PLrUIKtkGMn1YZVL30yhZHFQzG70p_EnLE/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCMibFyZPAquPBbCJssU7WMWM7ts3aBJot0XQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>True Geordie Podcast</title>
+<link>plugin://plugin.video.youtube/playlist/PLfNr2gwY6tqwlzbk84AHKawkA9c3-wMFM/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDgt-PWhinVlN5y2h9rAASWzb1e6pInE1R8rg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
+<title>Jenna Julien Podcast</title>
+<link>plugin://plugin.video.youtube/playlist/PLSXEseHEJ7IQ7nuW9PZiUyjiriM5ZegcP/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDfTRci3aiMs8qxGoKpWcEXh0Tiog3B4Q9zgA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
+<title>DIS Unplugged Podcast</title>
+<link>plugin://plugin.video.youtube/playlist/PLx3cGkb-N2k4R5YfN4oJfRTlWxdPX0T4l/</link>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mDVJgHkChlu1AzFgW2pmlbWQPozF3pSdejWYQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
