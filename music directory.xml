@@ -21,6 +21,11 @@
 </dir>
 
 <dir>
+<title>pod casts</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/podcast%20zone.xml</link>
+</dir>
+
+<dir>
 <title>24/7 Channels</title>
 <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/music%2024-7.xml</link>
 </dir>
@@ -35,7 +40,3 @@
 <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/latino%20music%20videos.xml</link>
 </dir>
 
-<dir>
-<title>pod casts</title>
-<link></link>
-</dir>
