@@ -25,3 +25,23 @@
 	<thumbnail>https://prodimage.images-bn.com/pimages/0031398253747_p0_v1_s550x406.jpg</thumbnail>
 	<fanart></fanart>
 </dir>
+
+<dir>
+	<name>Weed Recipes</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/weed%20recipes.xml</link>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHT7N_tnLLSpWLNTpxgEQEeOrLiymmieJx9051iSCNk8KF-eQk&s</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Growing Guides</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/growers.xml</link>
+	<thumbnail>https://scx1.b-cdn.net/csz/news/800/2015/cannabis.jpg</thumbnail>
+	<fanart></fanart>
+</dir>
+  
+<dir>
+   	<name>Weed Documentaries</name>
+   	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/weed%20docos.xml</link>
+   	<thumbnail>https://greencamp.com/wp-content/uploads/2019/05/weed-documentary.jpg</thumbnail>
+</dir>
