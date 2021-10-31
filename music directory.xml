@@ -1,6 +1,11 @@
 <dir>
-<name>Qello Concerts</name>
-<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/qello%20concerts.xml</link>
+<title>Concerts</title>
+<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/allconcerts.xml</link>
+</dir>
+
+<dir>
+<name>Karaoke</name>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
