@@ -1,3 +1,5 @@
+<xml>
+
 <item>
 	<title>[COLOR=white]5 Seconds of Summer - How did We end up here[/COLOR]</title>
 	<link>
@@ -543,7 +545,7 @@
 	<fanart>https://i.qello.com/c/concerts/t/4x3/i/q_1tx2.jpg/width/980</fanart>
 </item>
 <item>
-	<title>[COLOR=white]BeyoncÈ[/COLOR]</title>
+	<title>[COLOR=white]Beyonc√©[/COLOR]</title>
 	<link>
 		<sublink>https://content-origin.qello.com/2019-12/471/bw_f46_6928kb.m3u8</sublink>
 	</link>
@@ -551,7 +553,7 @@
 	<fanart>https://i.qello.com/c/concerts/t/4x3/i/1_vi372kub.jpg/width/980</fanart>
 </item>
 <item>
-	<title>[COLOR=white]BeyoncÈ[/COLOR]</title>
+	<title>[COLOR=white]Beyonc√©[/COLOR]</title>
 	<link>
 		<sublink>https://content-origin.qello.com/2019-12/594/bw_f46_6928kb.m3u8</sublink>
 	</link>
@@ -1319,7 +1321,7 @@
 	<fanart>https://i.qello.com/c/concerts/t/4x3/i/q_2101.jpg/width/980</fanart>
 </item>
 <item>
-	<title>[COLOR=white]Janelle Mon·e[/COLOR]</title>
+	<title>[COLOR=white]Janelle Mon√°e[/COLOR]</title>
 	<link>
 		<sublink>https://content-origin.qello.com/2019-01/84701/bw_f46_6928kb.m3u8</sublink>
 	</link>
@@ -2215,3 +2217,4 @@
 	<fanart>https://i.qello.com/c/concerts/t/4x3/i/q_248k.png/width/980</fanart>
 </item>
 
+</xml>
