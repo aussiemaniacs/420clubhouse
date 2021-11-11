@@ -82,3 +82,9 @@
    <fanart>https://cdn.hipwallpaper.com/i/25/90/zANZ7h.jpg</fanart>
 </item>
 
+<dir>
+<title>Mystery Science Theater 3000<title>
+<link>plugin://plugin.video.youtube/kodion/search/query/?q=MST3K&search_type=video</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
