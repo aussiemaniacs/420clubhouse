@@ -45,17 +45,3 @@
    	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/weed%20docos.xml</link>
    	<thumbnail>https://greencamp.com/wp-content/uploads/2019/05/weed-documentary.jpg</thumbnail>
 </dir>
-
-<dir>
-   <title>Mystery Science Theater 3000<title>
-   <link>plugin://plugin.video.youtube/kodion/search/query/?q=MST3K&search_type=video</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</dir>
-	
-<dir>
-   <title>Mystery Science Theater 3000<title>
-   <link>plugin://plugin.video.youtube/search/query/?q=MST3K&search_type=video</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</dir>
