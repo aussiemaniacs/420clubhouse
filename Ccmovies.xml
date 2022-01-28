@@ -1,7 +1,10 @@
 <item>
-	<title>streamtape test</title>
-	<link>https://streamtape.com/v/3o7yO18oXYtRQJ/madhouse_vid_8mb.mp4</link>
-	<thumbnail></thumbnail>
+   <title>streamtape test</title>
+   <link>
+      <sublink>https://streamtape.com/v/3o7yO18oXYtRQJ/madhouse_vid_8mb.mp4</sublink>
+      <sublink>coming soon</sublink>
+   </link>
+   <thumbnail></thumbnail>
 </item>
 
 <item>
