@@ -1,6 +1,6 @@
 <item>
    <title>f4m test</title>
-   <link>http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/34333</link>
+   <link>plugin://plugin.video.f4mTester/?url=http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/34333&streamtype=TSDOWNLOADER</link>
    <thumbnail></thumbnail>
 </item>
 
