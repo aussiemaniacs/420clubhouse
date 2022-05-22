@@ -1,11 +1,8 @@
-<dir>
+<item>
    <title>f4m test</title>
-   <link>
-      <sublink>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels%20f4m.xml</sublink>
-      <sublink></sublink>
-   </link>
+   <link>http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/34333</link>
    <thumbnail></thumbnail>
-</dir>
+</item>
 
 <item>
    <title>streamsb test 2</title>
