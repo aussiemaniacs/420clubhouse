@@ -6,6 +6,13 @@
 </item>
 
 <item>
+	<title>Live in Concert</title>
+	<link>http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a</link>
+	<thumbnail>https://images.pluto.tv/channels/6080411af03506000759916e/solidLogoPNG.png</thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
 	<title>Stingray 80's</title>
 	<link>https://stirr.ott-channels.stingray.com/128/master.m3u8</link>
 	<thumbnail>https://tv.mobistream.co.za/upload/source/Stingray_Everything_80s.png</thumbnail>
