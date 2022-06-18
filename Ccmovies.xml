@@ -1,27 +1,9 @@
-<plugin>
-   <title>Uncharted 1080p</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels.xml</link>
-   <thumbnail>https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg</thumbnail>
-   <fanart>https://images.wallpapersden.com/image/download/uncharted-2022-hd-movie_bWZma2aUmZqaraWkpJRmbmdlrWZlbWU.jpg</fanart>
-</plugin>
-
 <dir>
-   <title>mp3 test 3 f4m</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels%20f4m.xml</link>
-   <thumbnail></thumbnail>
+	<name>Test Concerts</name>
+	<link>https://raw.githubusercontent.com/aussiemaniacs/clubhousetunecity/main/concerts.xml?token=GHSAT0AAAAAABVXUY6M4CAHGX3P5PNXXZ7YYVNLM7Q</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </dir>
-
-<dir>
-   <title>mp3 test 2</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/24-7%20channels.xml</link>
-   <thumbnail></thumbnail>
-</dir>
-
-<item>
-   <title>mp3 test</title>
-   <link>https://www.ashleecadell.com/xyzstorelibrary/01-01-%20Dear%20Future%20Self%20(Hands%20Up)%20%5bfeat%20Wyclef%20Jean%5d.mp3</link>
-   <thumbnail></thumbnail>
-</item>
 
 <item>
    <title>Cheech and Chongs Up in Smoke (1978)</title>
