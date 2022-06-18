@@ -1,11 +1,11 @@
 <xml>
 
-<dir>
-	<name>tune city concerts</name>
-	<link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tune%20city%20concerts.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
+  <dir>
+   <title>Live concerts</title>
+   <link></link>
+   <thumbnail></thumbnail
+   <fanart></fanart>
+  </dir>
 
 <item>
 	<title>[COLOR=white]5 Seconds of Summer - How did We end up here[/COLOR]</title>
