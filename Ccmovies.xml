@@ -1,11 +1,13 @@
 <xml>
 
-<dir>
-   <name>Test Concerts</name>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tune%20city%20concerts.xml</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</dir>
+<item>
+	<title>[COLOR=white]5 Seconds of Summer - How did We end up here[/COLOR]</title>
+	<link>
+		<sublink>https://content-origin.qello.com/2019-11/62662/bw_f46_6928kb.m3u8</sublink>
+	</link>
+	<thumbnail>https://i.qello.com/c/concerts/t/3x4/i/q_1lwb.jpg/type/1/width/218/quality/75</thumbnail>
+	<fanart>https://i.qello.com/c/concerts/t/4x3/i/q_1lwc.jpg/width/980</fanart>
+</item>
 
 <item>
    <title>Cheech and Chongs Up in Smoke (1978)</title>
