@@ -1,6 +1,13 @@
 <xml>
 
 <dir>
+   <title>music vids</title>
+   <link>http://104.251.123.41/</link>
+   <thumbnail></thumbnail
+   <fanart></fanart>
+</dir>	
+	
+<dir>
    <title>Live concerts</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tune%20city%20concerts.xml</link>
    <thumbnail></thumbnail
