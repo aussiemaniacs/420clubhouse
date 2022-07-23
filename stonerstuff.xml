@@ -1,4 +1,11 @@
 <dir>
+   <name>tune city</name>
+   <link>https://ctl.madhouse.appboxes.co/</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</dir>
+
+<dir>
    <name>Cheech and Chong Movies RD</name>
    <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Ccmovies.xml</link>
    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/ccmovies.png?raw=true</thumbnail>
