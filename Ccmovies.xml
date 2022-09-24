@@ -1,18 +1,4 @@
 <xml>
-
-<dir>
-   <title>main directory</title>
-   <link>https://ctl.madhouse.appboxes.co/</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</dir>
-
-<dir>
-   <title>music vids</title>
-   <link>http://104.251.123.41/</link>
-   <thumbnail></thumbnail
-   <fanart></fanart>
-</dir>	
 	
 <dir>
    <title>Live concerts</title>
@@ -22,12 +8,12 @@
 </dir>
 
 <item>
-	<title>[COLOR=white]5 Seconds of Summer - How did We end up here[/COLOR]</title>
+	<title>[COLOR=white]test[/COLOR]</title>
 	<link>
-		<sublink>https://content-origin.qello.com/2019-11/62662/bw_f46_6928kb.m3u8</sublink>
+	<sublink>https://ad2017.vhls.ru.com/cdn/eplayer506/tracks-v1a1/mono.m3u8|Referer=http://magictv.licences4.me&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344</sublink>
 	</link>
-	<thumbnail>https://i.qello.com/c/concerts/t/3x4/i/q_1lwb.jpg/type/1/width/218/quality/75</thumbnail>
-	<fanart>https://i.qello.com/c/concerts/t/4x3/i/q_1lwc.jpg/width/980</fanart>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 
 <item>
