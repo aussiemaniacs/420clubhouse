@@ -1,16 +1,11 @@
 <xml>
 	
-<dir>
-   <title>Live concerts</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/tune%20city%20concerts.xml</link>
-   <thumbnail></thumbnail
-   <fanart></fanart>
-</dir>
+
 
 <item>
-	<title>[COLOR=white]test[/COLOR]</title>
+	<title>[COLOR=white]test seed[/COLOR]</title>
 	<link>
-	<sublink>https://azm.to/movie/age-of-heroes-c9c40</sublink>
+	<sublink>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/playlist.m3u</sublink>
 	</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
