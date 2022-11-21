@@ -1,5 +1,19 @@
 <xml>
 
+<dir>
+  <title>[COLOR green]xml test acdc[/COLOR]</title>
+  <link>https://xmls.ratpack.appboxes.co/xmls/stonerscity/xml/ACDC%20-%20Warning!%20High%20Voltage%20Greatest%20Hits%20CD1%20-%20Brian%20Johnson%20editted.xml</link>
+  <thumbnail>https://pbs.twimg.com/media/FeP8SSBXEAoUGIA.jpg</thumbnail>
+  <fanart>https://insiderfinancial.com/wp-content/uploads/2021/06/MainLFC-Pic.png</fanart>
+</dir>
+
+<dir>
+  <title>[COLOR green]xml test nirvana[/COLOR]</title>
+  <link>https://xmls.ratpack.appboxes.co/xmls/stonerscity/xml/Nirvana%20-%20Greatest%20Hits.xml</link>
+  <thumbnail>https://media.karousell.com/media/photos/products/2022/7/23/nirvana__greatest_hits_1658578384_a354d596_progressive.jpg</thumbnail>
+  <fanart>https://www.rollingstone.com/wp-content/uploads/2018/06/rs-191169-cover_nirvana_withthelightsout1.jpg?w=800</fanart>
+</dir>
+   
 <item>
    <title> test Thunderstruck </title>
    <link>http://home.darkok.xyz/Music/ACDC%20-%20Warning%21%20High%20Voltage%20%28Greatest%20Hits%29/CD1%20-%20Brian%20Johnson/01%20-%20Thunderstruck.mp3</link>
