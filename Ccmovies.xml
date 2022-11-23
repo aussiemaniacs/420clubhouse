@@ -1,6 +1,13 @@
 <xml>
 
 <dir>
+  <title>ants test</title>
+  <link>https://i.mjh.nz/10bold-nsw.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20</link>
+  <thumbnail>https://pbs.twimg.com/media/FeP8SSBXEAoUGIA.jpg</thumbnail>
+  <fanart>https://insiderfinancial.com/wp-content/uploads/2021/06/MainLFC-Pic.png</fanart>
+</dir>
+  
+<dir>
   <title>[COLOR green]xml test acdc[/COLOR]</title>
   <link>https://xmls.ratpack.appboxes.co/xmls/stonerscity/xml/ACDC%20-%20Warning!%20High%20Voltage%20Greatest%20Hits%20CD1%20-%20Brian%20Johnson%20editted.xml</link>
   <thumbnail>https://pbs.twimg.com/media/FeP8SSBXEAoUGIA.jpg</thumbnail>
