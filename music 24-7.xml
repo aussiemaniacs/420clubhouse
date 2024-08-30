@@ -1,35 +1,7 @@
 <item>
 	<title>Qello Concerts</title>
-	<link>https://lotus.stingray.com/manifest/qello-qello001-montreal/live/master.m3u8</link>
+	<link>https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8</link>
 	<thumbnail>https://i.imgur.com/IRyFTWq.png</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>Live Music Replay</title>
-	<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=</link>
-	<thumbnail>https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>MTV Biggest Pop</title>
-	<link>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS</link>
-	<thumbnail>https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>Vevo2K</title>
-	<link>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS</link>
-	<thumbnail>https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg</thumbnail>
-	<fanart></fanart>
-</item>
-
-<item>
-	<title>4FUN TV </title>
-	<link>https://stream.4fun.tv:8888/hls/4f_high/index.m3u8</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/4fun-tv.jpg/250px-4fun-tv.jpg</thumbnail>
 	<fanart></fanart>
 </item>
 
@@ -38,13 +10,6 @@
 	<link>https://stream.ecable.tv/afrobeats/index.m3u8</link>
 	<thumbnail>https://i.ytimg.com/vi/V9pVSpGzP2o/maxresdefault.jpg</thumbnail>
 	<fanart></fanart>
-</item>
-
-<item>
-	<title>City Music TV</title>
-	<link>https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-	<fanart>https://image.roku.com/developer_channels/prod/743cad246498611ec851f0aa6612af06fbc07593d39cb9f510bcb1612f09358e.png</fanart>
 </item>
 
 <item>
